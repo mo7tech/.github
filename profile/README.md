@@ -7,7 +7,7 @@ _Design-Driven Engineering & Independent Game Lab._
 
 [![Website](https://img.shields.io/badge/Official_Site-mo7tech.com-2563eb?style=flat-square&logo=google-chrome&logoColor=white)](https://mo7tech.com)
 [![Status](https://img.shields.io/badge/Status-Operating-10b981?style=flat-square)](https://mo7tech.com)
-[![Email](https://img.shields.io/badge/Contact-mo7cc%40outlook.com-f59e0b?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:mo7cc@outlook.com)
+[![Email](https://img.shields.io/badge/Contact-mo7cc%40outlook.com-f59e0b?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:mo7@mo7tech.com)
 
 </div>
 
@@ -58,7 +58,7 @@ Game Development  : Unity / Godot (C#), HLSL/Shaders, Game Math & Logic
 无论您需要企业数字化方案定制、移动端/鸿蒙/小程序研发、Avalonia 桌面端开发外包，或寻求独立游戏业务合作，欢迎联络：
 
 - **官方主站**: [https://mo7tech.com](https://mo7tech.com)
-- **联络邮箱**: [mo7cc@outlook.com](mailto:mo7cc@outlook.com)
+- **联络邮箱**: [mo7@mo7tech.com](mailto:mo7@mo7tech.com)
 
 ---
 
