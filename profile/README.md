@@ -33,7 +33,7 @@ _Design-Driven Engineering & Independent Game Lab based in Xi'an, China._
 
 ### 🛠️ 核心业务能力 / Capabilities
 
-- **💻 全栈软件定制开发**: 现代 Web 应用、企业级管理后台、高并发 API 网关及跨端数字化工具。
+- **💻 全栈与跨端软件开发**: 现代 Web 应用、企业级管理后台、高并发 API 网关及基于 Avalonia 的跨端桌面客户端。
 - **🎨 UI/UX 体验与视觉设计**: 交互原型策划、高保真界面设计与规范化设计系统（Design System）落地。
 - **🏢 传统企业数字化升级**: 针对痛点做流程线上化、自动化业务协同与定制降本增效系统。
 - **🤖 AI 智能化场景落地**: 企业私有知识库搭建、工作流自动化 Agent 调度与场景化辅助系统。
@@ -45,7 +45,7 @@ _Design-Driven Engineering & Independent Game Lab based in Xi'an, China._
 
 ```text
 Languages & Core  : TypeScript, JavaScript, C#, .NET, HTML5, CSS3/Tailwind
-Web & Ecosystem   : Astro, Vue.js, React, Node.js, ASP.NET Core
+Web & Desktop     : ASP.NET Core, Avalonia (Cross-platform UI), Astro, Vue.js, Node.js
 Game Development  : Unity / Godot (C#), HLSL/Shaders, Game Math & Logic
 DevOps & Cloud    : Docker, Linux, Caddy/Nginx, PostgreSQL, Redis, Git
 ```
@@ -56,7 +56,7 @@ DevOps & Cloud    : Docker, Linux, Caddy/Nginx, PostgreSQL, Redis, Git
 
 无论您需要企业数字化方案定制、全栈产品研发外包，或寻求独立游戏发行合作，欢迎联络：
 
-- **官方主站**: [https://mo7tech.com](https://mo7tech.com) _(备用: [mo7.cc](https://mo7.cc))_
+- **官方主站**: [https://mo7tech.com](https://mo7tech.com)
 - **联络邮箱**: [mo7cc@outlook.com](mailto:mo7cc@outlook.com)
 - **坐标**: 中国 · 陕西西安
 
