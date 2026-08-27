@@ -1,6 +1,6 @@
 <div align="center">
 
-# 墨七科技 · Mo7 Tech <img src="./logo.svg" width="30" alt="Mo7 Tech Logo" />
+# <img src="./logo.svg" width="2em" alt="Mo7 Tech Logo" /> 墨七科技 · Mo7 Tech
 
 **陕西墨七数字科技有限公司 · 官方开源组织**  
 _Design-Driven Engineering & Independent Game Lab._
