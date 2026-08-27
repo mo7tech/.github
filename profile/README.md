@@ -8,7 +8,7 @@
 _Design-Driven Engineering & Independent Game Lab._
 
 [![Website](https://img.shields.io/badge/Official_Site-mo7tech.com-2563eb?style=flat-square&logo=google-chrome&logoColor=white)](https://mo7tech.com)
-[![Status](https://img.shields.io/badge/Status-Operating-10b981?style=flat-square)](https://mo7tech.com)
+[![Game Lab](https://img.shields.io/badge/Game_Lab-BitMeow_%26_ArrayCmd-8b5cf6?style=flat-square&logo=gamepad&logoColor=white)](https://mo7tech.com)
 [![Email](https://img.shields.io/badge/Contact-hi%40mo7tech.com-f59e0b?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:hi@mo7tech.com)
 
 </div>
