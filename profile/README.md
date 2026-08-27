@@ -2,7 +2,7 @@
 
 <img src="./logo.svg" width="120" alt="Mo7 Tech Logo" />
 
-# 墨七数科 · Mo7 Tech
+# 墨七科技 · Mo7 Tech
 
 **陕西墨七数字科技有限公司 · 官方开源组织**  
 _Design-Driven Engineering & Independent Game Lab._
@@ -17,7 +17,7 @@ _Design-Driven Engineering & Independent Game Lab._
 
 ### 💡 关于我们 / About Us
 
-**墨七数科 (Mo7 Tech)** 是一家专注于“产品设计 × 全栈工程”双重交付的独立技术工作室与游戏研发团队。我们秉持严谨的工程思维与现代审美，既为企业提供覆盖多端的高标准数字化解决方案，也致力于打造独具特色的独立游戏。
+**墨七科技 (Mo7 Tech)** 是一家专注于“产品设计 × 全栈工程”双重交付的独立技术工作室与游戏研发团队。我们秉持严谨的工程思维与现代审美，既为企业提供覆盖多端的高标准数字化解决方案，也致力于打造独具特色的独立游戏。
 
 > _"Bridging code precision, product aesthetics, and interactive entertainment."_
 
@@ -27,7 +27,7 @@ _Design-Driven Engineering & Independent Game Lab._
 
 | 品牌 / 资产             | 官方域名                             | 品牌定位与核心方向                                                     |
 | :---------------------- | :----------------------------------- | :--------------------------------------------------------------------- |
-| **墨七数科 (Mo7 Tech)** | [mo7tech.com](https://mo7tech.com)   | 公司主站、商业全栈定制交付、企业数字化升级与 AI 方案落地               |
+| **墨七科技 (Mo7 Tech)** | [mo7tech.com](https://mo7tech.com)   | 公司主站、商业全栈定制交付、企业数字化升级与 AI 方案落地               |
 | **比特喵 (BitMeow)**    | [bitmeow.net](https://bitmeow.net)   | **休闲治愈游戏厂牌**：主打桌面挂机、农场种田模拟、萌系像素与陪伴类游戏 |
 | **万物指令 (ArrayCmd)** | [arraycmd.com](https://arraycmd.com) | **硬核向独立游戏厂牌**：主打科幻策略、系统模拟、极客解谜与战术类游戏   |
 
