@@ -1,0 +1,16 @@
+{
+  "name": "mo7tech-github-profile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GitHub Organization profile for Mo7 Tech Co., Ltd.",
+  "author": "mo7cc <mo7cc@mo7tech.com>",
+  "homepage": "https://github.com/mo7tech",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@prettier/plugin-xml": "^3.4.2",
+    "prettier": "^3.9.6"
+  }
+}

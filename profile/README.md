@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.svg" width="120" alt="Mo7 Tech Logo" />
+<a href="https://mo7tech.com" target="_blank"><img src="./logo.svg" width="120" alt="Mo7 Tech Logo" /></a>
 
 # 墨七科技 · Mo7 Tech
 
