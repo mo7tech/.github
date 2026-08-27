@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo.svg" width="120" alt="Mo7 Tech Logo" />
+
 # 墨七科技 · Mo7 Tech
 
 **陕西墨七数字科技有限公司 · 官方开源组织**  
